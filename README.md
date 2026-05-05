@@ -1,19 +1,19 @@
-# 🚢 Titanic Survival Prediction using Logistic Regression
+#  Titanic Survival Prediction using Logistic Regression
 
-## 📌 Project Overview
+##  Project Overview
 
 This project aims to predict whether a passenger survived the Titanic disaster using machine learning. It is a **binary classification problem**, where the target variable is `Survived` (0 = No, 1 = Yes).
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 * Dataset used: Titanic dataset (from Kaggle)
 * Contains information about passengers such as age, gender, ticket class, fare, etc.
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 * Python
 * Pandas, NumPy
@@ -22,7 +22,7 @@ This project aims to predict whether a passenger survived the Titanic disaster u
 
 ---
 
-## 🔍 Steps Performed
+##  Steps Performed
 
 ### 1. Data Loading
 
@@ -69,14 +69,14 @@ This project aims to predict whether a passenger survived the Titanic disaster u
 
 ---
 
-## 📊 Results
+##  Results
 
 * Achieved ~80% accuracy on test data
 * Model performs slightly better in predicting non-survivors compared to survivors
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 # Install dependencies
@@ -88,7 +88,7 @@ python3 titanic.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 titanic-project/
@@ -99,7 +99,7 @@ titanic-project/
 
 ---
 
-## 🎯 Future Improvements
+##  Future Improvements
 
 * Try advanced models (Random Forest, XGBoost)
 * Hyperparameter tuning
@@ -107,6 +107,6 @@ titanic-project/
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Sandeep Sharma
